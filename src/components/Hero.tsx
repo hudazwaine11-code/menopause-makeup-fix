@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import heroProduct from "@/assets/hero-product.jpg";
+import kraleLogo from "@/assets/krale-logo.png";
 
 export const Hero = () => {
   const scrollToProducts = () => {
@@ -12,6 +13,9 @@ export const Hero = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
           <div className="space-y-6 text-center md:text-left">
+            <div className="flex justify-center md:justify-start mb-4">
+              <img src={kraleLogo} alt="KRALE" className="h-16 md:h-20" />
+            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
               Flawless Coverage That Survives Hot Flashes
             </h1>
