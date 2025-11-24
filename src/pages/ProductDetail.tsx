@@ -123,7 +123,7 @@ export default function ProductDetail() {
                 </Badge>
                 <Badge variant="secondary" className="text-sm">
                   <Sparkles className="w-3 h-3 mr-1" />
-                  Heat-Resistant Formula
+                  Survives Hot Flashes
                 </Badge>
               </div>
               <h1 className="text-3xl md:text-4xl font-bold mb-4">{data.title}</h1>
@@ -179,25 +179,25 @@ export default function ProductDetail() {
                 <svg className="w-5 h-5 text-primary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Heat-resistant formula perfect for hot flashes</span>
+                <span>Stays flawless through hot flashes and night sweats</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <svg className="w-5 h-5 text-primary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Long-lasting coverage that won't melt or crease</span>
+                <span>Won't melt or crease during sudden temperature changes</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <svg className="w-5 h-5 text-primary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Designed specifically for mature skin</span>
+                <span>Formulated for women experiencing menopause</span>
               </div>
               <div className="flex items-center gap-2 text-sm">
                 <svg className="w-5 h-5 text-primary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                <span>Buildable coverage with lightweight feel</span>
+                <span>Buildable coverage that adapts to your hormonal skin changes</span>
               </div>
             </div>
           </div>
@@ -213,7 +213,7 @@ export default function ProductDetail() {
               </Badge>
               <h2 className="text-3xl md:text-4xl font-bold">Free Professional Brush Included</h2>
               <p className="text-lg text-muted-foreground">
-                Every purchase comes with our exclusive rose gold application brush, specially designed for precise under-eye coverage. The ultra-soft synthetic bristles ensure smooth, even application without tugging on delicate skin.
+                Every purchase comes with our exclusive rose gold application brush, specially designed for precise under-eye coverage. The ultra-soft synthetic bristles ensure smooth, even application without tugging on delicate menopausal skin that needs extra care.
               </p>
               <ul className="space-y-2">
                 <li className="flex items-center gap-2 text-sm">
@@ -250,9 +250,9 @@ export default function ProductDetail() {
         {/* Before & After Section */}
         <div className="mb-16">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Real Results From Real Women</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Real Results From Women Like You</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              See how our heat-resistant formula stays flawless through hot flashes and daily challenges
+              See how our formula stays flawless even during the most intense hot flashes - no more melting makeup or mid-day touch-ups
             </p>
           </div>
           
@@ -270,7 +270,7 @@ export default function ProductDetail() {
               </div>
               <div className="bg-muted/50 rounded-xl p-6">
                 <p className="text-sm italic text-muted-foreground mb-2">
-                  "I was amazed at how my under-eyes looked brighter and smoother. This corrector truly delivers on its promises."
+                  "As someone going through menopause, I was amazed at how my under-eyes stayed bright even after a hot flash. No more looking tired and worn out!"
                 </p>
                 <p className="text-sm font-semibold">- Sarah M., Age 52</p>
               </div>
@@ -289,7 +289,7 @@ export default function ProductDetail() {
               </div>
               <div className="bg-muted/50 rounded-xl p-6">
                 <p className="text-sm italic text-muted-foreground mb-2">
-                  "Finally, makeup that actually stays put during a hot flash! I don't have to worry about touch-ups anymore."
+                  "I've tried every under-eye product out there, but nothing stayed put during my hot flashes. This is the ONLY one that works. Game changer for menopausal women!"
                 </p>
                 <p className="text-sm font-semibold">- Jennifer K., Age 48</p>
               </div>
@@ -343,9 +343,9 @@ export default function ProductDetail() {
                   4
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">Enjoy All-Day Coverage</h3>
+                  <h3 className="font-semibold text-lg mb-2">Survive Every Hot Flash</h3>
                   <p className="text-muted-foreground">
-                    Your under-eyes will stay flawless through hot flashes, humidity, and whatever your day brings. No touch-ups needed!
+                    Your under-eyes will stay perfect through multiple hot flashes throughout the day. Finally, makeup that understands menopause. No touch-ups needed!
                   </p>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function ProductDetail() {
 
         {/* Key Benefits Section */}
         <div className="mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">Why Women Love KRALE</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">Why Menopausal Women Choose KRALE</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-card rounded-xl p-6 border">
               <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-4">
@@ -363,9 +363,9 @@ export default function ProductDetail() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z" />
                 </svg>
               </div>
-              <h3 className="font-semibold text-lg mb-2">Heat-Resistant Technology</h3>
+              <h3 className="font-semibold text-lg mb-2">Hot Flash Proof</h3>
               <p className="text-muted-foreground text-sm">
-                Our proprietary formula withstands temperatures up to 98°F, staying perfect through hot flashes and warm environments.
+                Our proprietary formula stays flawless through every hot flash. While your body temperature spikes, your makeup stays perfect - tested on real menopausal women.
               </p>
             </div>
 
@@ -375,9 +375,9 @@ export default function ProductDetail() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
-              <h3 className="font-semibold text-lg mb-2">12-Hour Wear</h3>
+              <h3 className="font-semibold text-lg mb-2">All-Day Coverage</h3>
               <p className="text-muted-foreground text-sm">
-                Long-lasting coverage that truly lasts. From morning coffee to evening dinner, your under-eyes stay flawless.
+                From morning coffee to evening dinner, through every hot flash in between. Your under-eyes stay flawless no matter how many times your temperature spikes.
               </p>
             </div>
 
@@ -387,9 +387,9 @@ export default function ProductDetail() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
-              <h3 className="font-semibold text-lg mb-2">Mature Skin Friendly</h3>
+              <h3 className="font-semibold text-lg mb-2">Made for Menopausal Skin</h3>
               <p className="text-muted-foreground text-sm">
-                Formulated specifically for women 45+. Won't settle into fine lines or emphasize texture.
+                Formulated specifically for hormonal skin changes during menopause. Works with your changing skin, not against it. Won't settle into fine lines.
               </p>
             </div>
 
